@@ -146,6 +146,7 @@ static int Cube(int num)
         // Modify an element
         fruits[2] = "Coconut";
         Console.WriteLine("The modified third fruit is: " + fruits[2]);
+        Console.WriteLine("commiting change in my code");
 
     }
 }
